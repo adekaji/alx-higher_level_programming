@@ -3,7 +3,6 @@
 
 
 import sys
-import os.path
 
 
 if __name__ == "__main__":
